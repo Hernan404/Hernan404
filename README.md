@@ -3,38 +3,7 @@
 
 <h1><span style="font-weight: bold; color: white;">Hernan Gomez </span></h1>
 
-hay que rellenar esto ☠
-
-
-
-
-
-
-
-
-
-
-..............
-
-
-
-
-
-
-
-
-
-
-..............
-
-
-
-
-
-
-
-
-..............
+- Acá dejo todo lo que hago
 
 
 
@@ -61,6 +30,3 @@ hay que rellenar esto ☠
 
 
 
-
-
-..............
